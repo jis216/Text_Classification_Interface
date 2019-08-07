@@ -19,8 +19,4 @@ Then you user your brower to go to the local portal displayed on the terminal.
 ## Demonstration
 Some sample input and output for using this interface are shown in this [file](https://github.com/jis216/Text_Classification_Interface/blob/master/demo_report.pdf).
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jis216/Text_Classification_Interface/blob/master/demo_report.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[embed]https://github.com/jis216/Text_Classification_Interface/blob/master/demo_report.pdf[/embed]
