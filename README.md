@@ -13,7 +13,7 @@ download nltk 'english' stopwords
 in the root directory of this folder, run the following command:
 python servery.py
 
-Then you user your brower to go to the local portal displayed on the terminal.
+Then use your brower to go to the local portal displayed on the terminal.
 (default: http://127.0.0.1:5000/)
 
 ## Demonstration
